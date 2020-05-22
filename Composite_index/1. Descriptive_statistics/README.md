@@ -1,1 +1,1 @@
-![](../Images/correlation_matrix.png)
+![](images/correlation_matrix.png)
