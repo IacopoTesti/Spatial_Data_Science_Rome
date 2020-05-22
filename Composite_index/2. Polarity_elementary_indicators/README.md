@@ -8,3 +8,8 @@
 | ... | incomes (+) | discordant | change (-)
 | ... | commercial activities (+) | discordant | change (-)
 | ... | unemployment (-) | concordant | does not change (-)
+
+## Linear Transformation Elementary Indicators
+
+#### This block defines the linear transformation for ranks, min-max and z-scores normalization 
+formula: $x_{ij}'$ = max{$x_{ij}$} - $x_{ij}$
