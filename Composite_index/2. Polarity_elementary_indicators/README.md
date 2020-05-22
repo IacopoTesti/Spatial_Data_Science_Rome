@@ -15,3 +15,5 @@
 formula: $x_{ij}'$ = max{$x_{ij}$} - $x_{ij}$
 
 ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+
+ https://www.codecogs.com/latex/eqneditor.php
