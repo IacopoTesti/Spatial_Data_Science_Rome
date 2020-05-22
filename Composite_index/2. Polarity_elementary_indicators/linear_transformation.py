@@ -1,5 +1,5 @@
 ### This block defines the linear transformation for ranks, min-max and z-scores normalization 
-# formula: $x_{ij}'$ = max{$x_{ij}$} - $x_{ij}$
+### formula: x_ij' = max{x_ij} - x_ij
 
 # prints first 5 rows of our matrix
 matrix.head()
